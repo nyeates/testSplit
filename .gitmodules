@@ -1,0 +1,3 @@
+[submodule "CombineDSSubModule"]
+	path = CombineDSSubModule
+	url = git://github.com/nyeates/CombineDS.git
